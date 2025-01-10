@@ -9,4 +9,4 @@ because of issue in block scope and functional scope */
 // null : console.log(typeof null); ans : Object
 // undefined : console.log(typeof undefined); ans : undefined
 
-console.log ("Dipmala");
+console.log ("Dipmala")
